@@ -1,1 +1,1 @@
-nriver/trilium-cn
+docker.io/nriver/trilium-cn:latest
